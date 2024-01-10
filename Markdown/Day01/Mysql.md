@@ -1,0 +1,3 @@
+# Mysql
+
+GRANT ALL PRIVILEGES ON *.* TO 'comment'@'%' IDENTIFIED BY 'bde3c451b0' WITH GRANT OPTION;
